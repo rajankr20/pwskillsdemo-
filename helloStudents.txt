@@ -1,0 +1,5 @@
+Hello students
+
+this is the first file of git 
+ and my name is rajan kumar;
+ byee
